@@ -62,7 +62,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" height="40" style="vertical-align:top; margin:4px"/>
 
-  
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
