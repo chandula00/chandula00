@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandula00&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![Chandula's github stats](https://github-readme-stats-9eqz-chandula00.vercel.app/api?username=chandula00&langs_count=8&count_private=true&theme=dark&bg_color=000000&show_icons=true)
-[![Top Langs](https://github-readme-stats-9eqz-chandula00.vercel.app/api/top-langs/?username=chandula00&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Chandula's github stats](https://github-readme-stats-9eqz-chandula00.vercel.app/api?username=chandula00&count_private=true&theme=dark&bg_color=000000&show_icons=true)
+[![Top Langs](https://github-readme-stats-9eqz-chandula00.vercel.app/api/top-langs/?username=chandula00&langs_count=8&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Languages and Tools:
