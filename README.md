@@ -13,9 +13,9 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00">
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<p align="center"><img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"></p>
 
-Welcome to my GitHub profile! I'm Chandula Adhikari, a Computer Engineering undergraduate at the University of Peradeniya. I have a keen interest in machine learning, artificial intelligence, and software development.
+Welcome to my GitHub profile! I'm <b>[Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223), a Computer Engineering undergraduate at the University of Peradeniya.</b> I have a keen interest in machine learning, artificial intelligence, and software development.
 
 ### About Me
 
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" height="40" style="vertical-align:top; margin:4px"/>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="border-radius: 15%"/>
 </p>
 
 
