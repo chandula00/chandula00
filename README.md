@@ -11,7 +11,7 @@
   <img align="left" alt="Chandula's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00">
 
 I'm currently an <b>Computer Engineering undergraduate</b> at the University of Peradeniya who is an enthusiast in Machine learning, Artificial Intelligence and Software Developing.
 - 👀 I’m interested in Solving Problems and finding appropriate methods to solve them
