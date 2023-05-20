@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="490" height="320" border="10"/>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif?raw=true" width="490" height="320" border="10"/>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223)
 <a href="https://www.instagram.com/janith_chandula_adhikari/">
