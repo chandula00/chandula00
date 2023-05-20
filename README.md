@@ -13,11 +13,28 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00">
 
- <img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
-I'm currently an <b>Computer Engineering undergraduate</b> at the University of Peradeniya who is an enthusiast in Machine learning, Artificial Intelligence and Software Developing.
-- 👀 I’m interested in Solving Problems and finding appropriate methods to solve them
-- 📫 You can reach me through my email chandulaadhikari@gmail.com / e19008@eng.pdn.ac.lk
+Welcome to my GitHub profile! I'm Chandula Adhikari, a Computer Engineering undergraduate at the University of Peradeniya. I have a keen interest in machine learning, artificial intelligence, and software development.
+
+### About Me
+
+As a passionate problem solver, I enjoy tackling challenging problems and finding appropriate methods to solve them. I believe in the power of technology to transform and improve various aspects of our lives. My academic background in Computer Engineering has equipped me with a strong foundation in programming, algorithms, and system design.
+
+### Areas of Interest
+
+- Machine Learning: I am fascinated by the capabilities of machine learning algorithms and their applications in various domains, including computer vision, natural language processing, and data analysis.
+- Artificial Intelligence: Exploring the field of artificial intelligence allows me to delve into the realms of intelligent systems, autonomous agents, and decision-making algorithms.
+- Software Development: I enjoy building robust and scalable software solutions, employing best practices and utilizing modern technologies and frameworks.
+
+### Get in Touch
+
+Feel free to reach out to me through the following:
+
+- Email: chandulaadhikari@gmail.com / e19008@eng.pdn.ac.lk
+- LinkedIn: [Chandula Adhikari]()
+
+Let's connect and explore the fascinating world of technology together!
 
 
 <!---
