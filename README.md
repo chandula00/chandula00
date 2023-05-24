@@ -1,6 +1,6 @@
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223)
 <a href="https://www.instagram.com/janith_chandula_adhikari/">
   <img align="left" alt="Chandula's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
