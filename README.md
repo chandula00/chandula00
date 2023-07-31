@@ -2,14 +2,18 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223)
 <a href="https://www.instagram.com/janith_chandula_adhikari/">
-  <img align="left" alt="Chandula's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Chandula's Instagram" width="106px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
 <a href="http://discordapp.com/users/1029326061760163840">
-  <img align="left" alt="Chandula's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Chandula's Discord" width="92px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223">
-  <img align="left" alt="Chandula's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Chandula's LinkedIN" width="104px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
+<br></br>
+
+<!--[![](https://visitcount.itsvg.in/api?id=chandula00&icon=0&color=0)](https://visitcount.itsvg.in)-->
+
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00"> -->
 
@@ -63,6 +67,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" height="40" style="vertical-align:top; margin:4px"/>
+
+
+
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="border-radius: 15%"/>
