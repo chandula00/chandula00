@@ -18,7 +18,6 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00"> -->
 
 <p align="center"><img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"></p>
-
 Welcome to my GitHub profile! I'm <b>[Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223), a Computer Engineering undergraduate at the University of Peradeniya.</b> I have a keen interest in machine learning, artificial intelligence, and software development.
 
 ### About Me
@@ -50,7 +49,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Chandula's github stats](https://github-readme-stats.vercel.app/api?username=chandula00&count_private=true&theme=dark&bg_color=000000&show_icons=true&ring_color=FF6500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandula00&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandula00&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandula00)](https://github.com/anuraghazra/github-readme-stats)<br>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandula00&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Languages and Tools:
