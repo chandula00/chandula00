@@ -15,6 +15,8 @@
 <!--[![](https://visitcount.itsvg.in/api?id=chandula00&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 
+[![An image of @chandula00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandula00)](https://holopin.io/@chandula00)
+
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00"> -->
 
 <p align="center"><img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"></p>
