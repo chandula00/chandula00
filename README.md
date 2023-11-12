@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m [Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223)
-
+# Hi, I’m [Chandula Adhikari](https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 [![An image of @chandula00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandula00)](https://holopin.io/@chandula00)
 
 <a href="https://www.instagram.com/janith_chandula_adhikari/">
