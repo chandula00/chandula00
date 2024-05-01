@@ -34,7 +34,7 @@ As a passionate problem solver, I enjoy tackling challenging problems and findin
 
 Feel free to reach out to me through the following:
 
-- Email: rajcadhikari@gmail.com / chandulaadhikari@gmail.com / e19008@eng.pdn.ac.lk
+- Email: rajcadhikari@gmail.com / chandulaadhikari00@gmail.com / e19008@eng.pdn.ac.lk
 - LinkedIn: [Chandula Adhikari]()
 
 Let's connect and explore the fascinating world of technology together!
