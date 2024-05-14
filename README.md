@@ -18,7 +18,7 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chandula00.chandula00"> -->
 
 <p align="center"><img align="center" alt="GIF" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"></p>
-Welcome to my GitHub profile! I'm <b> Chandula Adhikari, a Computer Engineering undergraduate at the University of Peradeniya. </b> I have a keen interest in machine learning, image processing, artificial intelligence, and software development.
+Welcome to my GitHub profile! I'm <b> Chandula Adhikari, a Computer Engineering undergraduate at the University of Peradeniya. </b> I have a keen interest in machine learning, computer vision, explainable AI, and software development.
 
 ### About Me
 
@@ -26,9 +26,10 @@ As a passionate problem solver, I enjoy tackling challenging problems and findin
 
 ### Areas of Interest
 
-- Machine Learning: I am fascinated by the capabilities of machine learning algorithms and their applications in various domains, including computer vision, natural language processing, and data analysis.
-- Artificial Intelligence: Exploring the field of artificial intelligence allows me to delve into the realms of intelligent systems, autonomous agents, and decision-making algorithms.
-- Software Development: I enjoy building robust and scalable software solutions, employing best practices and utilizing modern technologies and frameworks.
+- Machine Learning: I am captivated by the potential of machine learning algorithms, especially their role in computer vision, natural language processing, and data analysis. The ability to extract patterns and learn from data is truly fascinating.
+- Computer Vision: The field of computer vision intrigues me, particularly its intersection with machine learning. The idea of enabling machines to ‘see’ and understand the content of digital images or videos is an area I’m keen to explore further.
+- Explainable AI: I am interested in making AI transparent and understandable. I believe in the importance of not just creating models that can make predictions, but also being able to explain why they’re making those predictions.
+- Software Development: Building robust and scalable software solutions is something I thoroughly enjoy. I strive to follow best practices and leverage modern technologies and frameworks to deliver efficient and reliable software.
 
 ### Get in Touch
 
